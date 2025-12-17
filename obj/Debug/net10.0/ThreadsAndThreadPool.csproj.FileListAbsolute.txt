@@ -1,0 +1,14 @@
+D:\ivtmz\ThreadAndThreadPool\ThreadsAndThreadPool\bin\Debug\net10.0\ThreadsAndThreadPool.exe
+D:\ivtmz\ThreadAndThreadPool\ThreadsAndThreadPool\bin\Debug\net10.0\ThreadsAndThreadPool.deps.json
+D:\ivtmz\ThreadAndThreadPool\ThreadsAndThreadPool\bin\Debug\net10.0\ThreadsAndThreadPool.runtimeconfig.json
+D:\ivtmz\ThreadAndThreadPool\ThreadsAndThreadPool\bin\Debug\net10.0\ThreadsAndThreadPool.dll
+D:\ivtmz\ThreadAndThreadPool\ThreadsAndThreadPool\bin\Debug\net10.0\ThreadsAndThreadPool.pdb
+D:\ivtmz\ThreadAndThreadPool\ThreadsAndThreadPool\obj\Debug\net10.0\ThreadsAndThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+D:\ivtmz\ThreadAndThreadPool\ThreadsAndThreadPool\obj\Debug\net10.0\ThreadsAndThreadPool.AssemblyInfoInputs.cache
+D:\ivtmz\ThreadAndThreadPool\ThreadsAndThreadPool\obj\Debug\net10.0\ThreadsAndThreadPool.AssemblyInfo.cs
+D:\ivtmz\ThreadAndThreadPool\ThreadsAndThreadPool\obj\Debug\net10.0\ThreadsAndThreadPool.csproj.CoreCompileInputs.cache
+D:\ivtmz\ThreadAndThreadPool\ThreadsAndThreadPool\obj\Debug\net10.0\ThreadsAndThreadPool.dll
+D:\ivtmz\ThreadAndThreadPool\ThreadsAndThreadPool\obj\Debug\net10.0\refint\ThreadsAndThreadPool.dll
+D:\ivtmz\ThreadAndThreadPool\ThreadsAndThreadPool\obj\Debug\net10.0\ThreadsAndThreadPool.pdb
+D:\ivtmz\ThreadAndThreadPool\ThreadsAndThreadPool\obj\Debug\net10.0\ThreadsAndThreadPool.genruntimeconfig.cache
+D:\ivtmz\ThreadAndThreadPool\ThreadsAndThreadPool\obj\Debug\net10.0\ref\ThreadsAndThreadPool.dll
